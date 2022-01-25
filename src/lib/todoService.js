@@ -1,3 +1,3 @@
 export const getTodos = () => {
-  return fetch('url').then(res => res.json())
-}
+  return fetch("url").then((res) => res.json());
+};

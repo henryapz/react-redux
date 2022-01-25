@@ -1,4 +1,4 @@
-import PropTypes from 'prop-types';
+import PropTypes from "prop-types";
 
 const TodoItem = ({ id, name, isCompleted, onToggleTodo, onDeleteTodo }) => (
   <li>

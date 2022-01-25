@@ -1,5 +1,5 @@
 const Message = () => {
-  const message = '';
+  const message = "";
   return message ? <span className="message">{message}</span> : null;
 };
 

@@ -1,5 +1,3 @@
- 
-
 const TodoForm = () => {
   const handleInputChange = (evt) => {
     const val = evt.target.value;

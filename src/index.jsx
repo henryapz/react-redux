@@ -1,11 +1,11 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import { Provider } from 'react-redux';
-import store from './store';
+import React from "react";
+import ReactDOM from "react-dom";
+import { Provider } from "react-redux";
+import store from "./store";
 
-import App from './App';
+import App from "./App";
 
-import './index.css';
+import "./index.css";
 
 const Root = (
   <React.StrictMode>
@@ -15,4 +15,4 @@ const Root = (
   </React.StrictMode>
 );
 
-ReactDOM.render(Root, document.getElementById('root'));
+ReactDOM.render(Root, document.getElementById("root"));

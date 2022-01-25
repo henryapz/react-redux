@@ -27,6 +27,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "json-serve": "^0.1.0"
+    "json-serve": "^0.1.0",
+    "prettier": "2.5.1"
   }
 }
